@@ -1,0 +1,9 @@
+block_id,asset,action,direction
+1,ETH,Open,Short
+1,SOL,Open,Long
+2,BTC,Open,Long
+2,ETH,Close,Short
+2,SOL,Close,Long
+3,BTC,Close,Long
+3,BTC,Open,Short
+4,BTC,Close,Short

@@ -1,0 +1,12 @@
+block_id,transition_index,transition_type,asset,direction,exposure_change
+1,1,Regular,BTC,Long,Increase
+1,2,Regular,ETH,Short,Increase
+1,3,Regular,AAPL,Long,Increase
+1,4,Close Longs,,,
+1,5,Regular,SOL,Long,Increase
+2,1,Flip All,,,
+2,2,Regular,BTC,Long,Increase
+2,4,Close Shorts,,,
+2,5,Regular,ETH,Unclear,Decrease / None
+3,1,Flip Longs,,,
+4,5,Close All,,,
